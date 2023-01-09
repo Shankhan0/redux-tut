@@ -1,4 +1,3 @@
-import User from "./user.js";
 import React from "react";
 import "./App.css";
 
